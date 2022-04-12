@@ -1,7 +1,7 @@
 # Stuff Technologies Graphics Repository
 The files here are placed here for anyone to use in a non-commercial fashion. Make yourself a T-Shirt, a sticker, bed sheets, anything you can think of.. just don't use our designs to start your own business, cause that is kind of scummy. 
 
-If you wish to purchase a design, please contact us through our site www.Stufftech.io or find me on twitter, @Olthoff
+If you wish to purchase a design, please contact us through our site www.Stufftech.io or find me on twitter [@Olthoff](https://twitter.com/olthoff)
 
 
 LICENSE: Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
