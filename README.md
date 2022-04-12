@@ -1,5 +1,5 @@
-# honkhonk
-Honk
+# Stuff Technologies Graphics Repository
+The files here are placed here for anyone to use in a non-commercial fashion. Make yourself a T-Shirt, a sticker, bed sheets, anything you can think of.. just don't use our designs to start your own business, cause that is kind of scummy. 
 
 
 LICENSE: Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
